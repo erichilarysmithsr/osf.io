@@ -97,3 +97,4 @@ ciso8601==1.0.5
 # Reviews requirements
 transitions==0.6.1
 enum34==1.1.6
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
